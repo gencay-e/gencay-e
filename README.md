@@ -1,6 +1,6 @@
 # Gencay
 
-I build security and developer tools: local-first command-line utilities, runtime guardrails for AI agents, and report automation.
+Security, developer tools, and self-hosted software.
 
 ## Projects
 

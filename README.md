@@ -1,6 +1,6 @@
 # Gencay
 
-Offline command-line tools for penetration testing and runtime policy controls for MCP servers, written in Python and Rust.
+Open-source projects across security, developer tooling, and local-first software.
 
 ## Projects
 
